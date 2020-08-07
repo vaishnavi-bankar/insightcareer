@@ -1,0 +1,6 @@
+[30-Jul-2020 05:58:43 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/zr8uarjud0u6/public_html/contact.php on line 14
+[30-Jul-2020 06:04:04 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/zr8uarjud0u6/public_html/contact.php on line 14
+[30-Jul-2020 06:04:40 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/zr8uarjud0u6/public_html/contact.php on line 14
+[30-Jul-2020 06:06:03 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'cpses_zry9y7vpvu'@'localhost' (using password: NO) in /home/zr8uarjud0u6/public_html/contact.php on line 14
+[30-Jul-2020 06:13:40 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'insightc'@'localhost' to database 'insight' in /home/zr8uarjud0u6/public_html/contact.php on line 14
+[30-Jul-2020 08:46:45 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'localhost:3309' (0) in /home/zr8uarjud0u6/public_html/form.php on line 15

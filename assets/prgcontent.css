@@ -1,0 +1,45 @@
+/*
+	Comment
+*/
+
+a { /* Comment */ color: /* Comment */ Red; }
+
+#nav {
+	background:DodgerBlue;
+	textcolor:#ffffff;
+	padding: 0 0px;
+	
+}
+.button
+{
+	width:100%;
+	backgoundcolor:DodgerBlue;
+	padding: 10px 20px;
+	
+}
+
+
+.center {
+  text-align: center;
+  margin: auto;
+  width: 100%;
+  border: 2px solid black;
+  padding: 5px;
+}
+
+.font
+{
+	
+	font-size: 25px;
+  font-weight: 1000;
+  textcolor: solid red;
+}
+
+.div {
+  background: #f9f9fa;
+  textcolor:  #000000;
+}
+
+ .dd {
+  padding: 20px;
+}
